@@ -1,0 +1,4 @@
+python-telegram-bot==12.8
+pytube==12.1.2
+os
+time
