@@ -5,7 +5,7 @@ import telegram
 from telegram.ext import Updater
 
 # Set the bot token
-bot_token = "6105654054:AAFUKD6AZ9g9_gbvXMLfGNan1oK1PjtWnl0"
+bot_token = "BOT_TOKEN"
 
 # Create a bot instance
 bot = telegram.Bot(token=bot_token)
